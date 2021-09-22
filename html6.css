@@ -3,6 +3,12 @@
 
 body{
 	
+	background-color: azure;
+	opacity: 0.3;
+}
+body {
+	background-image: url("images/splash.png");
+}
 	background: url("images/splash.png") no-repeat;
 	background-size: cover; 
 	img {
